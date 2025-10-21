@@ -24,5 +24,5 @@ En este repositorio se encuentran los materiales del workshop correspondientes a
 
 | Temas  |  |
 | - | --- | 
-| Preprocesamiento de datos EEG | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()|
-| Análisis de datos EEG | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()|
+| Preprocesamiento de datos EEG | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neuropucp/neuroling-workshop/blob/master/eeg-data-analysis/preprocessing.ipynb)|
+| Análisis de datos EEG | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neuropucp/neuroling-workshop/blob/master/eeg-data-analysis/erp-and-tfa.ipynb)|
